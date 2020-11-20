@@ -1,0 +1,7 @@
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\bin\Debug\WeekTwoChallenges.exe.config
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\bin\Debug\WeekTwoChallenges.exe
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\bin\Debug\WeekTwoChallenges.pdb
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.csprojAssemblyReference.cache
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.csproj.CoreCompileInputs.cache
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.exe
+C:\AKR ElevenFiftyProjects\Challanges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.pdb
